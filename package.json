@@ -1,0 +1,26 @@
+{
+  "name": "table-yellow",
+  "version": "1.0.0",
+  "description": "Componente para criação de tabelas com exportação em PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otonielloliveira/TableYellow.git"
+  },
+  "author": "“Otoniel <“otonielloliveira@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otonielloliveira/TableYellow/issues"
+  },
+  "homepage": "https://github.com/otonielloliveira/TableYellow#readme",
+  "dependencies": {
+    "jspdf": "^2.4.0",
+    "jspdf-autotable": "^3.5.20",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "reactstrap": "^8.10.0"
+  }
+}
